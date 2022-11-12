@@ -1,2 +1,2 @@
 # Frontend Dev
- learning typescript react redux
+ learning js ts react js 
