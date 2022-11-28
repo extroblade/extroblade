@@ -1,3 +1,3 @@
 # Junior Frontend Developer
 
-PERN stack + few typescript + bootstrap/tailwind + redux/mobx
+PERN stack / few typescript / few state managers
