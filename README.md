@@ -1,5 +1,8 @@
 # Frontend Developer
+## Hello there
+My name is Alexey,
+I learn Frontend, my stack is:
 
-My name is Alexey, I learn Frontend on React, NodeJS, JS, TS, PgSQL
+JS, React, NodeJS, TS, PgSQL
 
 How to reach me - www.t.me/extroblade
