@@ -1,4 +1,4 @@
-## Frontend Developer
+## Frontend Developer - React, Next.js, Typescript
 
  ---
  
